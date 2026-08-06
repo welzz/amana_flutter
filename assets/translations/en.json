@@ -1,0 +1,53 @@
+{
+  "parentDashboard": {
+    "title": "Parent Dashboard",
+    "imHere": "I'm Here",
+    "schoolNear": "School is near",
+    "schoolFar": "School is not near",
+    "ParentDashboard": "Parent dashboard",
+    "Schoolisnear": "You are inside the school pickup area.",
+    "Schoolisnotnear": "You are outside the school pickup area.",
+    "welcome": "Welcome",
+    "childrent": "Childrent",
+    "pickupstate": "Pickup status"
+  },
+  "confirm": {
+    "released": "Confirm Release"
+  },
+  "status": {
+    "awaiting": "Waiting",
+    "childReleased": "ChildReleased",
+    "completed": "Completed"
+  },
+  "login": {
+    "WelcomeBack": "Welcome Back",
+    "signmanageyourstudents": "Please sign in to manage your students",
+    "username": "user name",
+    "password": "password",
+    "signin": "Sign in",
+    "ForgotPassword": "Forgot Password?",
+    "securepickup": "Secure School Pickup Management",
+    "amana": "AMANA",
+    "digitalchoice": "DIGITAL CHOICE",
+    "enteryourusername": "Enter your username",
+    "messageresetemail": "Enter your user name and we will send you a password reset link to your email registered."
+  },
+  "delegation":{
+    "createDelegation":"Create Delegation",
+    "autAnoterPerson":"Authorize another person to pickup your child",
+        "student":"student",
+        "delegatorName":"Delegator Name",
+        "enterdelegatorname":"Enter delegator name",
+        "pleaseenterdelegatorname":"Please enter delegator name",
+        "mobileNumber":"Mobile Number",
+        "entermobilenumber":"Enter mobile number",
+        "pleaseentermobilenumber":"Please enter mobile number",
+        "startDate":"Start Date",
+        "selectstartdate":"Select start date",
+        "endDate":"End Date",
+        "selectenddate":"Seelct end date",
+        "delegationcreatedsuccessfully":"Delegation created successfully",
+        "selectStudent":"Select Student"
+ 
+  }
+}

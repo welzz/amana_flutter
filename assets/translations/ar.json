@@ -1,0 +1,54 @@
+{
+  "parentDashboard": {
+    "title": "لوحة ولي الأمر",
+    "imHere": "أنا هنا",
+    "schoolNear": "المدرسة قريبة",
+    "schoolFar": "المدرسة بعيدة",
+    "ParentDashboard": "صفحة ولي الأمر",
+    "Schoolisnear": "أنت داخل منطقة استلام المدرسة.",
+    "Schoolisnotnear": "أنت خارج منطقة استلام المدرسة.",
+    "welcome": "مرحبا",
+    "childrent":"أطفال",
+    "pickupstate":"حالات الخروج"
+
+   },
+  "confirm": {
+    "released": "تأكيد الاستلام"
+  },
+  "status": {
+    "awaiting": "في الانتظار",
+    "childReleased": "تم تسليم الطفل",
+    "completed": "مكتمل"
+  },
+  "login": {
+    "WelcomeBack": "مرحبا بعودتك",
+    "signmanageyourstudents": "برجاء تسجيل الدخول للتحكم في الطلاب",
+     "username":"اسم المستخدم",
+    "password":"كلمة المرور",
+    "signin":"تسجيل الدخول",
+    "ForgotPassword":"نسيت كلمة المرور ؟",
+    "securepickup":"إدارة آمنة لخروج الطلاب من المدارس",
+    "amana":"أمانة",
+    "digitalchoice":"الخيار الرقمي",
+    "enteryourusername":"أدخل اسم المستخدم",
+    "messageresetemail": "ادخل اسم المستخدم وسيتم ارسال رابط اعادة كلمة المرور للبريد الالكتروني المسجل "
+    
+  },
+  "delegation":{
+    "createDelegation":"إنشاء تفويض",
+    "autAnoterPerson":"قم بتفويض شخص آخر لإستلام طفلك",
+    "student":"الطالب",
+    "delegatorName":"إسم المفوض إلية",
+    "enterdelegatorname":"أدخل اسم المفوض إليه",
+    "pleaseenterdelegatorname":"من فضلك أدخل اسم المفوض إليه",
+    "mobileNumber":"رقم الجوال",
+    "entermobilenumber":"أدخل رقم الجوال",
+    "pleaseentermobilenumber":"من فضلك أدخل رقم الجوال",
+    "startDate":"بداية التاريخ",
+    "selectstartdate":"إختر بداية التاريخ",
+    "endDate":"نهاية التاريخ",
+    "selectenddate":"إختر نهاية التاريخ",
+    "delegationcreatedsuccessfully":"تم إنشاء التفويض بنجاح",
+    "selectStudent":"إختر الطالب"
+  }
+}
