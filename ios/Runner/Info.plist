@@ -66,5 +66,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+<string>Amana needs camera access to scan student QR codes.</string>
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>Amana uses your location to verify your location at school and track the school bus.</string>
 </dict>
 </plist>
