@@ -40,6 +40,8 @@ class _LoginPageState extends ConsumerState<LoginPage> {
       Navigator.pushReplacementNamed(context, AppRoutes.bus);
     } else if (role == 'admin') {
       Navigator.pushReplacementNamed(context, '/admin');
+    }else if (role == 'staff') {
+      Navigator.pushReplacementNamed(context, AppRoutes.staff);
     }
   }
 

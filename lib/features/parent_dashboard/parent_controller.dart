@@ -110,7 +110,7 @@ final ParentBusSocketService _socket =
       final loginResponse = ref.read(loginSessionProvider);
 
       final pickupRequests = await api.getPickupBySchoolIdToday(schoolid);
-      final requests = (pickupRequests as List)
+      final requests = (pickupRequests)
           .map((e) => PickupRequest.fromJson(e))
           .toList();
       // print(loginResponse?['students']);

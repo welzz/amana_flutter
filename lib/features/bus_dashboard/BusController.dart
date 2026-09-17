@@ -139,8 +139,7 @@ BusController(
         .where(
           (r) =>
               r.buspickup == false &&
-              r.arrivalTime != null &&
-              isSameDay(r.arrivalTime!),
+              isSameDay(r.arrivalTime),
         )
         .map((r) => r.studentId)
         .toSet();
@@ -154,7 +153,7 @@ BusController(
             (r) =>
                 r.studentId == student.id &&
                 
-                isSameDay(r.arrivalTime!) &&
+                isSameDay(r.arrivalTime) &&
                 (r.status == PickupStatus.Awaiting ||
                     r.status == PickupStatus.ChildReleased),
           );

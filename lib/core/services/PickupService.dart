@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'package:dio/src/dio.dart';
 import 'package:http/http.dart' as http;
 
 import '../../models/PickupRequest.dart';

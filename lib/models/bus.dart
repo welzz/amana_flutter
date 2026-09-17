@@ -42,7 +42,7 @@ factory Bus.fromJson(Map<String, dynamic> json) {
       'busNumber': busNumber,
       'driverId': driverId,
       'studentIds': studentIds,
-      'students': students?.map((e) => e.toJson()).toList(),
+      'students': students.map((e) => e.toJson()).toList(),
     };
   }
 }
